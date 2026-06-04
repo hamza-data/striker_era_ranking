@@ -51,7 +51,7 @@ def name_from_cell(cell):
     for a in cell.find_all('a', href=True): 
         if a.find_parent('span', class_='flagicon'): 
             continue
-        text = a.got_text(strip=True)
+        text = a.get_text(strip=True)
         if text: 
             return clean_name(text)
     return clean_name(cell.get_text(strip=True))

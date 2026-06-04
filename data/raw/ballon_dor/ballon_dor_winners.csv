@@ -1,0 +1,206 @@
+year,rank,player,nationality,team,club_country,points
+1956,1,Stanley Matthews,England,Blackpool,England,47
+1956,2,Alfredo Di Stéfano,Spain,Real Madrid,Spain,44
+1956,3,Raymond Kopa,France,Real Madrid,Spain,33
+1957,1,Alfredo Di Stéfano,Spain,Real Madrid,Spain,72
+1957,2,Billy Wright,England,Wolverhampton Wanderers,England,19
+1957,3,Duncan Edwards,England,Manchester United,England,16
+1958,1,Raymond Kopa,France,Real Madrid,Spain,71
+1958,2,Helmut Rahn,West Germany,Rot-Weiss Essen,West Germany,40
+1958,3,Just Fontaine,France,Reims,France,23
+1959,1,Alfredo Di Stéfano,Spain,Real Madrid,Spain,80
+1959,2,Raymond Kopa,France,Reims,France,42
+1959,3,John Charles,Wales,Juventus,Italy,24
+1960,1,Luis Suárez,Spain,Barcelona,Spain,54
+1960,2,Ferenc Puskás,Hungary,Real Madrid,Spain,37
+1960,3,Uwe Seeler,West Germany,Hamburger SV,West Germany,33
+1961,1,Omar Sívori,Italy,Juventus,Italy,46
+1961,2,Luis Suárez,Spain,Inter Milan,Italy,40
+1961,3,Johnny Haynes,England,Fulham,England,22
+1962,1,Josef Masopust,Czechoslovakia,Dukla Prague,Czechoslovakia,65
+1962,2,Eusébio,Portugal,Benfica,Portugal,53
+1962,3,Karl-Heinz Schnellinger,West Germany,1. FC Köln,West Germany,33
+1963,1,Lev Yashin,Soviet Union,Dynamo Moscow,Soviet Union,73
+1963,2,Gianni Rivera,Italy,Milan,Italy,55
+1963,3,Jimmy Greaves,England,Tottenham Hotspur,England,50
+1964,1,Denis Law,Scotland,Manchester United,England,61
+1964,2,Luis Suárez,Spain,Inter Milan,Italy,43
+1964,3,Amancio,Spain,Real Madrid,Spain,38
+1965,1,Eusébio,Portugal,Benfica,Portugal,67
+1965,2,Giacinto Facchetti,Italy,Inter Milan,Italy,59
+1965,3,Luis Suárez,Spain,Inter Milan,Italy,45
+1966,1,Bobby Charlton,England,Manchester United,England,81
+1966,2,Eusébio,Portugal,Benfica,Portugal,80
+1966,3,Franz Beckenbauer,West Germany,Bayern Munich,West Germany,59
+1967,1,Flórián Albert,Hungary,Ferencváros,Hungary,68
+1967,2,Bobby Charlton,England,Manchester United,England,40
+1967,3,Jimmy Johnstone,Scotland,Celtic,Scotland,39
+1968,1,George Best,Northern Ireland,Manchester United,England,61
+1968,2,Bobby Charlton,England,Manchester United,England,53
+1968,3,Dragan Džajić,Socialist Federal Republic of Yugoslavia,Red Star Belgrade,Socialist Federal Republic of Yugoslavia,46
+1969,1,Gianni Rivera,Italy,Milan,Italy,83
+1969,2,Gigi Riva,Italy,Cagliari,Italy,79
+1969,3,Gerd Müller,West Germany,Bayern Munich,West Germany,38
+1970,1,Gerd Müller,West Germany,Bayern Munich,West Germany,77
+1970,2,Bobby Moore,England,West Ham United,England,70
+1970,3,Gigi Riva,Italy,Cagliari,Italy,65
+1971,1,Johan Cruyff,Netherlands,Ajax,Netherlands,116
+1971,2,Sandro Mazzola,Italy,Inter Milan,Italy,57
+1971,3,George Best,Northern Ireland,Manchester United,England,56
+1972,1,Franz Beckenbauer,West Germany,Bayern Munich,West Germany,81
+1972,2,Gerd Müller,West Germany,Bayern Munich,West Germany,79
+1973,1,Johan Cruyff,Netherlands,Barcelona,Spain,96
+1973,2,Dino Zoff,Italy,Juventus,Italy,47
+1973,3,Gerd Müller,West Germany,Bayern Munich,West Germany,44
+1974,1,Johan Cruyff,Netherlands,Barcelona,Spain,116
+1974,2,Franz Beckenbauer,West Germany,Bayern Munich,West Germany,105
+1974,3,Kazimierz Deyna,Poland,Legia Warsaw,Poland,35
+1975,1,Oleg Blokhin,Soviet Union,Dynamo Kyiv,Soviet Union,122
+1975,2,Franz Beckenbauer,West Germany,Bayern Munich,West Germany,42
+1975,3,Johan Cruyff,Netherlands,Barcelona,Spain,27
+1976,1,Franz Beckenbauer,West Germany,Bayern Munich,West Germany,91
+1976,2,Rob Rensenbrink,Netherlands,Anderlecht,Belgium,75
+1976,3,Ivo Viktor,Czechoslovakia,Dukla Prague,Czechoslovakia,52
+1977,1,Allan Simonsen,Denmark,Borussia Mönchengladbach,West Germany,74
+1977,2,Kevin Keegan,England,Hamburger SV,West Germany,71
+1977,3,Michel Platini,France,Nancy,France,70
+1978,1,Kevin Keegan,England,Hamburger SV,West Germany,87
+1978,2,Hans Krankl,Austria,Barcelona,Spain,81
+1978,3,Rob Rensenbrink,Netherlands,Anderlecht,Belgium,50
+1979,1,Kevin Keegan,England,Hamburger SV,West Germany,118
+1979,2,Karl-Heinz Rummenigge,West Germany,Bayern Munich,West Germany,52
+1979,3,Ruud Krol,Netherlands,Ajax,Netherlands,41
+1980,1,Karl-Heinz Rummenigge,West Germany,Bayern Munich,West Germany,122
+1980,2,Bernd Schuster,West Germany,Barcelona,Spain,34
+1980,3,Michel Platini,France,Saint-Étienne,France,33
+1981,1,Karl-Heinz Rummenigge,West Germany,Bayern Munich,West Germany,106
+1981,2,Paul Breitner,West Germany,Bayern Munich,West Germany,64
+1981,3,Bernd Schuster,West Germany,Barcelona,Spain,39
+1982,1,Paolo Rossi,Italy,Juventus,Italy,115
+1982,2,Alain Giresse,France,Bordeaux,France,64
+1982,3,Zbigniew Boniek,Poland,Juventus,Italy,39
+1983,1,Michel Platini,France,Juventus,Italy,110
+1983,2,Kenny Dalglish,Scotland,Liverpool,England,26
+1983,3,Allan Simonsen,Denmark,Vejle,Denmark,25
+1984,1,Michel Platini,France,Juventus,Italy,110
+1984,2,Jean Tigana,France,Bordeaux,France,57
+1984,3,Preben Elkjær,Denmark,Hellas Verona,Italy,48
+1985,1,Michel Platini,France,Juventus,Italy,127
+1985,2,Preben Elkjær,Denmark,Hellas Verona,Italy,71
+1985,3,Bernd Schuster,West Germany,Barcelona,Spain,46
+1986,1,Igor Belanov,Soviet Union,Dynamo Kyiv,Soviet Union,84
+1986,2,Gary Lineker,England,Barcelona,Spain,62
+1986,3,Emilio Butragueño,Spain,Real Madrid,Spain,59
+1987,1,Ruud Gullit,Netherlands,Milan,Italy,106
+1987,2,Paulo Futre,Portugal,Atlético Madrid,Spain,91
+1987,3,Emilio Butragueño,Spain,Real Madrid,Spain,61
+1988,1,Marco van Basten,Netherlands,Milan,Italy,129
+1988,2,Ruud Gullit,Netherlands,Milan,Italy,88
+1988,3,Frank Rijkaard,Netherlands,Milan,Italy,45
+1989,1,Marco van Basten,Netherlands,Milan,Italy,129
+1989,2,Franco Baresi,Italy,Milan,Italy,80
+1989,3,Frank Rijkaard,Netherlands,Milan,Italy,43
+1990,1,Lothar Matthäus,Germany,Inter Milan,Italy,137
+1990,2,Salvatore Schillaci,Italy,Juventus,Italy,84
+1990,3,Andreas Brehme,Germany,Inter Milan,Italy,68
+1991,1,Jean-Pierre Papin,France,Marseille,France,141
+1991,2,Dejan Savićević,Socialist Federal Republic of Yugoslavia,Red Star Belgrade,Socialist Federal Republic of Yugoslavia,42
+1992,1,Marco van Basten,Netherlands,Milan,Italy,98
+1992,2,Hristo Stoichkov,Bulgaria,Barcelona,Spain,80
+1992,3,Dennis Bergkamp,Netherlands,Ajax,Netherlands,53
+1993,1,Roberto Baggio,Italy,Juventus,Italy,142
+1993,2,Dennis Bergkamp,Netherlands,Inter Milan,Italy,83
+1993,3,Eric Cantona,France,Manchester United,England,34
+1994,1,Hristo Stoichkov,Bulgaria,Barcelona,Spain,210
+1994,2,Roberto Baggio,Italy,Juventus,Italy,136
+1994,3,Paolo Maldini,Italy,Milan,Italy,109
+1995,1,George Weah,Liberia,Milan,Italy,144
+1995,2,Jürgen Klinsmann,Germany,Bayern Munich,Germany,108
+1995,3,Jari Litmanen,Finland,Ajax,Netherlands,67
+1996,1,Matthias Sammer,Germany,Borussia Dortmund,Germany,144
+1996,2,Ronaldo,Brazil,Barcelona,Spain,143
+1996,3,Alan Shearer,England,Newcastle United,England,107
+1997,1,Ronaldo,Brazil,Inter Milan,Italy,222
+1997,2,Predrag Mijatović,Federal Republic of Yugoslavia,Real Madrid,Spain,68
+1997,3,Zinedine Zidane,France,Juventus,Italy,63
+1998,1,Zinedine Zidane,France,Juventus,Italy,244
+1998,2,Davor Šuker,Croatia,Real Madrid,Spain,68
+1998,3,Ronaldo,Brazil,Inter Milan,Italy,66
+1999,1,Rivaldo,Brazil,Barcelona,Spain,219
+1999,2,David Beckham,England,Manchester United,England,154
+1999,3,Andriy Shevchenko,Ukraine,Milan,Italy,64
+2000,1,Luís Figo,Portugal,Real Madrid,Spain,197
+2000,2,Zinedine Zidane,France,Juventus,Italy,181
+2000,3,Andriy Shevchenko,Ukraine,Milan,Italy,85
+2001,1,Michael Owen,England,Liverpool,England,176
+2001,2,Raúl,Spain,Real Madrid,Spain,140
+2001,3,Oliver Kahn,Germany,Bayern Munich,Germany,114
+2002,1,Ronaldo,Brazil,Real Madrid,Spain,169
+2002,2,Roberto Carlos,Brazil,Real Madrid,Spain,145
+2002,3,Oliver Kahn,Germany,Bayern Munich,Germany,110
+2003,1,Pavel Nedvěd,Czech Republic,Juventus,Italy,190
+2003,2,Thierry Henry,France,Arsenal,England,128
+2003,3,Paolo Maldini,Italy,Milan,Italy,123
+2004,1,Andriy Shevchenko,Ukraine,Milan,Italy,175
+2004,2,Deco,Portugal,Barcelona,Spain,139
+2004,3,Ronaldinho,Brazil,Barcelona,Spain,133
+2005,1,Ronaldinho,Brazil,Barcelona,Spain,225
+2005,2,Frank Lampard,England,Chelsea,England,148
+2005,3,Steven Gerrard,England,Liverpool,England,142
+2006,1,Fabio Cannavaro,Italy,Real Madrid,Spain,173
+2006,2,Gianluigi Buffon,Italy,Juventus,Italy,124
+2006,3,Thierry Henry,France,Arsenal,England,121
+2007,1,Kaká,Brazil,Milan,Italy,444
+2007,2,Cristiano Ronaldo,Portugal,Manchester United,England,277
+2007,3,Lionel Messi,Argentina,Barcelona,Spain,255
+2008,1,Cristiano Ronaldo,Portugal,Manchester United,England,446
+2008,2,Lionel Messi,Argentina,Barcelona,Spain,281
+2008,3,Fernando Torres,Spain,Liverpool,England,179
+2009,1,Lionel Messi,Argentina,Barcelona,Spain,473
+2009,2,Cristiano Ronaldo,Portugal,Real Madrid,Spain,233
+2009,3,Xavi,Spain,Barcelona,Spain,170
+2010,1,Lionel Messi,Argentina,Barcelona,Spain,2265
+2010,2,Andrés Iniesta,Spain,Barcelona,Spain,1736
+2010,3,Xavi,Spain,Barcelona,Spain,1648
+2011,1,Lionel Messi,Argentina,Barcelona,Spain,4788
+2011,2,Cristiano Ronaldo,Portugal,Real Madrid,Spain,2160
+2011,3,Xavi,Spain,Barcelona,Spain,923
+2012,1,Lionel Messi,Argentina,Barcelona,Spain,4160
+2012,2,Cristiano Ronaldo,Portugal,Real Madrid,Spain,2368
+2012,3,Andrés Iniesta,Spain,Barcelona,Spain,1091
+2013,1,Cristiano Ronaldo,Portugal,Real Madrid,Spain,2799
+2013,2,Lionel Messi,Argentina,Barcelona,Spain,2472
+2013,3,Franck Ribéry,France,Bayern Munich,Germany,2336
+2014,1,Cristiano Ronaldo,Portugal,Real Madrid,Spain,3766
+2014,2,Lionel Messi,Argentina,Barcelona,Spain,1576
+2014,3,Manuel Neuer,Germany,Bayern Munich,Germany,1572
+2015,1,Lionel Messi,Argentina,Barcelona,Spain,4133
+2015,2,Cristiano Ronaldo,Portugal,Real Madrid,Spain,2776
+2015,3,Neymar,Brazil,Barcelona,Spain,786
+2016,1,Cristiano Ronaldo,Portugal,Real Madrid,Spain,745
+2016,2,Lionel Messi,Argentina,Barcelona,Spain,316
+2016,3,Antoine Griezmann,France,Atlético Madrid,Spain,198
+2017,1,Cristiano Ronaldo,Portugal,Real Madrid,Spain,946
+2017,2,Lionel Messi,Argentina,Barcelona,Spain,670
+2017,3,Neymar,Brazil,Paris Saint-Germain,France,361
+2018,1,Luka Modrić,Croatia,Real Madrid,Spain,753
+2018,2,Cristiano Ronaldo,Portugal,Juventus,Italy,476
+2018,3,Antoine Griezmann,France,Atlético Madrid,Spain,414
+2019,1,Lionel Messi,Argentina,Barcelona,Spain,686
+2019,2,Virgil van Dijk,Netherlands,Liverpool,England,679
+2019,3,Cristiano Ronaldo,Portugal,Juventus,Italy,476
+2021,1,Lionel Messi,Argentina,Paris Saint-Germain,France,613
+2021,2,Robert Lewandowski,Poland,Bayern Munich,Germany,580
+2021,3,Jorginho,Italy,Chelsea,England,460
+2022,1,Karim Benzema,France,Real Madrid,Spain,549
+2022,2,Sadio Mané,Senegal,Bayern Munich,Germany,193
+2022,3,Kevin De Bruyne,Belgium,Manchester City,England,175
+2023,1,Lionel Messi,Argentina,Inter Miami,United States,462
+2023,2,Erling Haaland,Norway,Manchester City,England,357
+2023,3,Kylian Mbappé,France,Paris Saint-Germain,France,270
+2024,1,Rodri,Spain,Manchester City,England,1170
+2024,2,Vinícius Júnior,Brazil,Real Madrid,Spain,1129
+2024,3,Jude Bellingham,England,Real Madrid,Spain,917
+2025,1,Ousmane Dembélé,France,Paris Saint-Germain,France,1380
+2025,2,Lamine Yamal,Spain,Barcelona,Spain,1059
+2025,3,Vitinha,Portugal,Paris Saint-Germain,France,703
