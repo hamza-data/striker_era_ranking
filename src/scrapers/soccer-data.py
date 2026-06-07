@@ -10,13 +10,13 @@ leagues = {
     'ESP-La Liga': 'la_liga', 
     'GER-Bundesliga': 'bundesliga', 
     'FRA-Ligue 1': 'ligue_1', 
-    'ITA-Seria A': 'seria_a'
+    'ITA-Serie A': 'seria_a'
 }
 
 def scrape_all(): 
-    os.makedir('/Users/muhammadhamza/striker_era_ranking/data/raw/fbref', exist_ok = True)
+    os.makedirs('/Users/muhammadhamza/striker_era_ranking/data/raw/fbref', exist_ok = True)
     
-    fbref = sd.FBref(leagues=list(leagues.key()), seasons = list(range(START_YEAR, END_YEAR + 1)))
+    fbref = sd.FBref(leagues=list(leagues.keys()), seasons = list(range(START_YEAR, END_YEAR + 1)))
     
     df = fbref.read_player_season_stats(stat_type='standard')
     df = df.reset_index()
