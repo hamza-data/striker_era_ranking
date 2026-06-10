@@ -10,7 +10,6 @@ Usage:
 import pandas as pd
 from io import StringIO
 import os
-import re
 from bs4 import BeautifulSoup
 from pathlib import Path
 
@@ -106,17 +105,19 @@ def clean_dataframe(df, season):
 
     # Fill missing assists with 0
     # Early seasons for non-EPL leagues have no assist data
-    # We treat blank as 0 and flag it separately
+    # Capture the NaN mask BEFORE fillna — once filled, NaN info is lost
     if 'assists' in df.columns:
-        assists_missing = df['assists'].isna().sum()
-        if assists_missing > 0:
-            print(f"  NOTE: {assists_missing} rows have no assist data "
+        assists_missing_mask = df['assists'].isna()
+        n_missing = assists_missing_mask.sum()
+        if n_missing > 0:
+            print(f"  NOTE: {n_missing} rows have no assist data "
                   f"-> filling with 0")
         df['assists'] = df['assists'].fillna(0).astype(int)
     else:
-        # Assists column absent entirely — add as zeros
+        # Assists column absent entirely — all rows are missing
         print("  NOTE: No assists column found -> adding as 0")
         df['assists'] = 0
+        assists_missing_mask = pd.Series(True, index=df.index)
 
     # Fill missing goals with 0
     if 'goals' in df.columns:
@@ -163,11 +164,10 @@ def clean_dataframe(df, season):
     # Add season column
     df['season'] = season
 
-    # Add assists_recorded flag so we know which rows
-    # have real assists vs filled zeros
-    # This is important for the Full House Model decision
-    # on whether to use G+A or goals only
-    df['assists_recorded'] = df['assists'] > 0
+    # assists_missing = True  → FBref had no data for this row (NaN before fill)
+    # assists_missing = False → FBref had a real value (0 or more)
+    # Any zero where assists_missing is False is a genuine recorded zero
+    df['assists_missing'] = assists_missing_mask
 
     # Compute ga_per_90 — only where minutes > 0
     df['ga_per_90'] = None
@@ -232,10 +232,10 @@ def process_all():
     print("\n  Assists coverage by season:")
     assist_report = combined.groupby('season').agg(
         total_players=('player', 'count'),
-        with_assists=('assists_recorded', 'sum'),
+        missing_assists=('assists_missing', 'sum'),
     )
-    assist_report['pct'] = (
-        assist_report['with_assists'] / assist_report['total_players'] * 100
+    assist_report['coverage_pct'] = (
+        (1 - assist_report['missing_assists'] / assist_report['total_players']) * 100
     ).round(1)
     print(assist_report.to_string())
 
